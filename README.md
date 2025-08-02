@@ -42,3 +42,8 @@ To run the script and generate the visualization, use the following command in y
 
 Make sure the image file and required .json and .pkl.gz files are located in the correct relative paths inside your project directory.
 
+
+## Note:
+This project does not include object detection. It assumes that the 3D bounding boxes are already extracted and their coordinates are available as input.
+
+
