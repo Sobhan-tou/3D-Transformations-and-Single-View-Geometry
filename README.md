@@ -1,8 +1,9 @@
 ## Projection of 3D Bounding Boxes onto 2D Image Plane
 In this project, we visualize annotated 3D object bounding boxes by projecting them from world coordinates onto a 2D camera image. This is a crucial step in perception systems for autonomous driving, enabling visual understanding of object localization in real-world scenes.
+![ICP Result](images/Q2.jpg)
 
 We aim to project 3D bounding boxes of various objects onto the image plane using the camera's intrinsic and extrinsic parameters.
-
+![ICP Result](images/1.png)
 The translation vector of the camera with respect to the world coordinate system is:
 
 t = [0.4089, 0.2613, 1.8091]
